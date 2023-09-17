@@ -1,0 +1,17 @@
+C:\Users\kugao\Desktop\Tentando Criar uma API\obj\Debug\net7.0\Tentando Criar uma API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kugao\Desktop\Tentando Criar uma API\obj\Debug\net7.0\Tentando Criar uma API.AssemblyInfoInputs.cache
+C:\Users\kugao\Desktop\Tentando Criar uma API\obj\Debug\net7.0\Tentando Criar uma API.AssemblyInfo.cs
+C:\Users\kugao\Desktop\Tentando Criar uma API\obj\Debug\net7.0\Tentando Criar uma API.csproj.CoreCompileInputs.cache
+C:\Users\kugao\Desktop\Tentando Criar uma API\bin\Debug\net7.0\Tentando Criar uma API.exe
+C:\Users\kugao\Desktop\Tentando Criar uma API\bin\Debug\net7.0\Tentando Criar uma API.deps.json
+C:\Users\kugao\Desktop\Tentando Criar uma API\bin\Debug\net7.0\Tentando Criar uma API.runtimeconfig.json
+C:\Users\kugao\Desktop\Tentando Criar uma API\bin\Debug\net7.0\Tentando Criar uma API.dll
+C:\Users\kugao\Desktop\Tentando Criar uma API\bin\Debug\net7.0\Tentando Criar uma API.pdb
+C:\Users\kugao\Desktop\Tentando Criar uma API\obj\Debug\net7.0\Tentando Criar uma API.dll
+C:\Users\kugao\Desktop\Tentando Criar uma API\obj\Debug\net7.0\refint\Tentando Criar uma API.dll
+C:\Users\kugao\Desktop\Tentando Criar uma API\obj\Debug\net7.0\Tentando Criar uma API.pdb
+C:\Users\kugao\Desktop\Tentando Criar uma API\obj\Debug\net7.0\Tentando Criar uma API.genruntimeconfig.cache
+C:\Users\kugao\Desktop\Tentando Criar uma API\obj\Debug\net7.0\ref\Tentando Criar uma API.dll
+C:\Users\kugao\Desktop\Tentando Criar uma API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\kugao\Desktop\Tentando Criar uma API\obj\Debug\net7.0\Tentando Criar uma API.csproj.AssemblyReference.cache
+C:\Users\kugao\Desktop\Tentando Criar uma API\obj\Debug\net7.0\Tentando Criar uma API.csproj.CopyComplete
