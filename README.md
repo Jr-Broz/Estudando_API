@@ -6,6 +6,8 @@
 dotnet add package Newtonsoft.Json
 ```
 
+
+
  #### **Explicando o Código:**
 
 O  ``` public static asyn Task Main(String[] args) ``` é como  ```async``` , o que permite o uso de operações assíncronas para evitar o bloqueio da thread principal enquanto aguarda a resposta da API
@@ -19,3 +21,5 @@ O  ``` public static asyn Task Main(String[] args) ``` é como  ```async``` , o 
 ``` var users = JsonConvert.DeserializeObject<User[]>(content);``` O conteudo JSON é desserializado em um array de objetos do tipo ```user``` usando a biblioteca Newtonsoft.Json.
 
 #### **O Código nesse repositório é um simples exemplo de como fazer solicitação HTTP, desserializar Json e exibir os dados.**
+
+Aplicação feita no Visual Studio Code.
